@@ -91,14 +91,7 @@ nav .fa{
        font-size: 20px; 
     }
 
-    .nav-links{
-        height: 100hv;
-        width: 200px;
-        top: -1;
-        right: 200px;
-        text-align: left;
-        z-index: 2;
-    }
+    
     nav .fa{
         display: block;
         color: #fff;
